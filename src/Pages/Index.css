@@ -1,0 +1,237 @@
+
+.mainpage {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/c8c8a0ad-86d6-45f1-b21d-821afa4e5027/121450d3-2d2f-41a9-acd6-b050ca0e0424/IN-en-20220801-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    background-size: cover;
+    height: 750px;
+    width: 100%;
+}
+
+.logo1 {
+    position: fixed;
+    margin-top: 30px;
+    width: 200px;
+    margin-left: 40px;
+}
+
+.sign {
+    position: fixed;
+    right: 70px;
+    width: 90px;
+    height: 40px;
+    cursor: pointer;
+    margin-top: 40px;
+    background-color: #e50914;
+    color: #f2f2f2;
+    border: none;
+    float: right;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 7px 17px;
+    border-radius: 5px;
+}
+
+.faded {
+    height: 750px;
+    margin-top: 0px;
+    background-image: linear-gradient(360deg,transparent,rgba(37,37,37,0.61),#111 );
+}
+
+.centerpage {
+    width: 100%;
+    height: 700px;
+    text-align: center;
+}
+
+.centerpage .head1 {
+    padding-top: 250px;
+    padding-left: 400px;
+    color: #f2f2f2;
+    font-size: 3.125rem;
+    font-weight: 700;
+    line-height: 1.1;
+    max-width: 640px;
+}
+
+.centerpage .head2 {
+    font-size: 1.625rem;
+    font-weight: 500;
+    color: #f2f2f2;
+    max-width: 640px;
+    padding-top: 20px;
+    padding-left: 400px;
+}
+
+.centerpage .head3 {
+    font-size: 1.2rem;
+    max-width: none;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #f2f2f2;
+    font-weight: 400;
+}
+
+.details {
+    width: 450px;
+    height: 600px;
+    margin-left: 500px;
+    margin-top: -650px;
+    background-color: transparent;
+    position: relative;
+    background: rgba(5, 5, 5, 0.7);
+    padding-top: 20px;
+    
+}
+
+.head {
+    color: #f2f2f2;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 40px;
+    margin-left: 60px; 
+}
+
+.inputfield {
+    width: 320px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 40px;
+    color: #222;
+    padding-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.inputfield2 {
+    width: 320px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    color: #222;
+    padding-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.signin {
+    width: 325px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 70px;
+    border: none;
+    background-color: #e50914;
+    color: #f2f2f2;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.signup {
+    color: #737373;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.signup .link {
+    color: #fff;
+}
+
+
+/*------------------- INFO PAGE -----------------------------*/
+
+.info-banner {
+    background-size: cover;
+    height: 750px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.info-content {
+    padding-top: 650px;
+    height: 50px;
+    padding-left: 30px;
+}
+
+.info-title {
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+}
+
+.info-fade {
+    height: 9rem;
+    margin-top: -90px;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111 );
+}
+
+.left-side {
+    width: 50%;
+    height: 350px;
+}
+
+
+.info-details {
+    width: 100%;
+    height: 230px;
+}
+
+.info-banner-buttons {
+    width: 500px;
+    height: 50px;
+    padding-top: 10px;
+    margin-left: 30px;
+}
+
+.info-button {
+    color: black;
+    background-color: #e6e6e6;
+    outline: none;
+    border: none;
+    width: 100%;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+.info-button:hover {
+    color: #fff;
+    background-color: rgba(51, 51, 51, 0.5);
+}
+
+.info-description {
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 1rem;
+    height: 140px;
+    color: #f2f2f2;
+    margin-left: 30px;
+    max-width: 450px;
+}
+
+.rating {
+    width: 100%;
+    height: 120px;
+}
+
+.rating-text {
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 1rem;
+    color: #f2f2f2;
+    margin-left: 30px;
+    max-width: 450px;
+}

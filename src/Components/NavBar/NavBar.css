@@ -1,0 +1,54 @@
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    background: #111;
+    padding-top: 20px;
+}
+
+.logo {
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+
+.elements {
+    color: #fff;
+    position: fixed;
+    display: flex;
+    list-style: none;
+    margin-left: 150px;
+}
+
+.elements li {
+    margin-right: 20px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.elements li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.avatar {
+    position: fixed;
+    right: 20px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.search {
+    position: fixed;
+    right: 100px;
+    color: #f2f2f2;
+    font-size: 25px;
+    font-weight: 900;
+    margin-top: 1px;
+    cursor: pointer;
+}
+
+

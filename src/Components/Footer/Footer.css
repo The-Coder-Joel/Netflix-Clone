@@ -1,0 +1,91 @@
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: #111;
+    margin-top: 30px;
+    border-top: 6px solid #222;
+    color: #fff;
+    padding-top: 70px;
+}
+
+.footer h2 {
+    margin-left: 250px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #f2f2f2;
+    margin-bottom: 40px;
+}
+
+.list-items {
+    color: #fff;
+    text-align: center;
+    
+}
+
+.div1 {
+    float: left;
+    text-align: left;
+    margin-left: 250px;
+}
+
+.list1 li {
+    list-style: none;
+    margin-right: 200px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #f2f2f2;
+    margin-bottom: 25px;
+}
+
+.div2 {
+    float: left;
+    text-align: left;
+}
+
+.list2 li {
+    list-style: none;
+    margin-right: 200px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #f2f2f2;
+    margin-bottom: 25px;
+}
+
+.div3 {
+    float: left;
+    text-align: left;
+}
+
+.list3 li {
+    list-style: none;
+    margin-right: 200px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #f2f2f2;
+    margin-bottom: 25px;
+}
+
+.div4 {
+    float: left;
+    text-align: left;
+}
+
+.list4 li {
+    list-style: none;
+    margin-right: 200px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #f2f2f2;
+    margin-bottom: 25px;
+}
+
+.footer h1 {
+    margin-left: 250px;
+    font-size: 15px;
+    font-weight: 200;
+    color: #f2f2f2;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    float: left;
+}
